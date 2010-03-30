@@ -2,8 +2,8 @@
 debug: 0 
 machines: 
   - name: ibas
-    offset: 3 
+    offset: -3
   - name: isdcifts
-    offset: 2
+    offset: -2
   - name: nrtdr
     offset: 0

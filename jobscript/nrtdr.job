@@ -1,1 +1,1 @@
-echo "Hello world"
+sudo -u backuppc /usr/share/BackupPC/bin/BackupPC_serverMesg backup nrtdr nrtdr iftsops 0
