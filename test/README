@@ -1,0 +1,1 @@
+This is an example revno file: run "cat revno | ../schedule-backups.rb" to test
