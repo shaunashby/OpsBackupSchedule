@@ -1,0 +1,6 @@
+
+This project contains code which parses a revolution file to determine perigee passage times and
+uses "at" to schedule backups to BackupPC.
+
+Reception of a new revolution file triggers the re-scheduling of backup jobs for all future perigee passages.
+
